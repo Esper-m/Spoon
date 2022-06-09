@@ -1095,6 +1095,10 @@ h6 {
 }
 
 @media (max-width: 29.99875em) {
+  .header__btn {
+    display: none;
+  }
+
   .footer__navigation {
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
